@@ -7,7 +7,7 @@ This is a simple GitHub Pages site that includes:
 
 ## Live Demo
 Visit the site here:  
-👉 [https://username.github.io/custom-404](https://username.github.io/custom-404)
+👉 https://github.com/22f2000120/tds-extraga-q6
 
 Test the 404 page by visiting a non-existent path:  
-👉 [https://username.github.io/custom-404/test-404](https://username.github.io/custom-404/test-404)
+👉 https://github.com/22f2000120/tds-extraga-q6
